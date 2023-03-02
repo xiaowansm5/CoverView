@@ -181,7 +181,7 @@ const Home = () => {
                     <h2 className="text-6xl text-center font-Anek font-bold text-gray-700 mx-auto">简单、快速且易于使用</h2>
                     <p className="text-2xl text-center py-4 md:w-8/12 mx-auto">因此，您可以专注于撰写博客，而不必担心那些封面图片.</p>
                     <Link to="/editor" >
-                        <button className="flex mx-auto my-4 hover:translate-x-2 duration-300 bg-gray-700  rounded-full px-6 text-white text-xl font-Inter font-semibold p-4">It's Free! Try now &rarr;</button>
+                        <button className="flex mx-auto my-4 hover:translate-x-2 duration-300 bg-gray-700  rounded-full px-6 text-white text-xl font-Inter font-semibold p-4">免费! 现在试试 &rarr;</button>
                     </Link>
                 </div>
 
