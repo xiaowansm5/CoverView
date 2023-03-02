@@ -37,7 +37,7 @@ const Home = () => {
                 为您的博客创建封面图片现在超级简单
                 </h1>
             <Link to="/editor" className="hover:translate-x-2 duration-300 bg-gray-700 hover:bg-gray-800 group rounded-full px-4 md:px-8 text-white md:text-2xl text-lg mx-auto font-Inter font-semibold md:p-4 p-2">
-                    <span className="md:text-2xl text-lg">打开编辑器r &rarr;</span>
+                    <span className="md:text-2xl text-lg">打开编辑器 &rarr;</span>
                 </Link>
             </div>
 
