@@ -31,7 +31,7 @@ const defaultSettings = {
 	font: 'font-Anek',
 	theme: 'background',
 	customIcon: '',
-  platform: 'dev'
+  platform: 'hashnode'
 };
 
 const devIconsUrl = "https://raw.githubusercontent.com/devicons/devicon/master/devicon.json"
