@@ -34,7 +34,7 @@ const defaultSettings = {
   platform: 'hashnode'
 };
 
-const devIconsUrl = "https://h.hhao.cc/js/devicon.json"
+const devIconsUrl = "https://raw.githubusercontent.com/devicons/devicon/master/devicon.json"
 // const devIconOptions = [
 // 	{ value: 'None', label: 'None' },
 // 	{ value: 'javascript', label: 'Javascript' },
