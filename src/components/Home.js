@@ -197,8 +197,8 @@ const Home = () => {
                 </div>
 
                 <div className="md:text-lg text-sm flex flex-wrap  ">
-                    <Link to="/faq" className="m-2 hover:font-semibold">📌 How to use</Link>
-                    <a href="https://github.com/xiaowansm5" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">⭐ Star on Github</a>
+                    <Link to="/faq" className="m-2 hover:font-semibold">📌 如何使用</Link>
+                    <a href="https://github.com/xiaowansm5" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">⭐ 在 Github 上加星</a>
                    
                 </div>
             </footer>
