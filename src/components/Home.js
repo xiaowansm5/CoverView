@@ -175,7 +175,7 @@ const Home = () => {
                 </div>
 
 
-                <WallOfLove />
+            
 
                 <div className="md:w-8/12 mx-auto pt-24 p-4">
                     <h2 className="text-6xl text-center font-Anek font-bold text-gray-700 mx-auto">简单、快速且易于使用</h2>
